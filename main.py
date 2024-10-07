@@ -7,6 +7,8 @@ rw = RandomWord()
 list_of_words = []
 root = tk.Tk()
 
+
+print("test")
 # to generate a list of random words
 root.title('Word couter')
 
